@@ -1,7 +1,8 @@
 # jack, please help me to complete this mail serivce function
 this is a mess config, not working
-Jack: Ivan, this is my change
+this is from ivan
 Jack modify
+
 
 
 happy ending
@@ -10,3 +11,8 @@ happy ending
 2017/11/5 11:26
 
  
+
+happy ending
+this is done in 11/5
+ 
+
