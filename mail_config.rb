@@ -2,4 +2,10 @@
 this is a mess config, not working
 Jack: Ivan, this is my change
 Jack modify
+
+
+happy ending
+
+2017/11/5: solve conflict problem and test 
+
  
